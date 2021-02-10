@@ -37,19 +37,11 @@ input, textarea{
 } 
 
 .form-group{
-    margin: 2rem 0;
-}
-
-.form-group:nth-child(3){
-    position: relative;
-}
-
-#label{
-    position: absolute;
-    top: 0;
+    margin: 1rem 0;
 }
 
 textarea{
+    margin-top: 4px;
     margin-left: 6rem;
 }
 
