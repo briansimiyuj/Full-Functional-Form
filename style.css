@@ -22,3 +22,16 @@ h1{
     height: 500px;
     background-color: palevioletred;
 }
+
+form{
+    margin-top: 4rem;
+    margin-left: 5rem;
+}
+
+input{
+    margin-left: 3rem;
+}
+
+input, textarea{
+    padding: 5px;
+} 
