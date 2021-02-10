@@ -19,7 +19,7 @@ h1{
 
 .container{
     width: 500px;
-    height: 500px;
+    height: 550px;
     background-color: palevioletred;
 }
 
@@ -35,3 +35,20 @@ input{
 input, textarea{
     padding: 5px;
 } 
+
+.form-group{
+    margin: 2rem 0;
+}
+
+.form-group:nth-child(3){
+    position: relative;
+}
+
+#label{
+    position: absolute;
+    top: 0;
+}
+
+textarea{
+    margin-left: 6rem;
+}
