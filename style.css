@@ -52,3 +52,18 @@ input, textarea{
 textarea{
     margin-left: 6rem;
 }
+
+button{
+    margin-left: 5rem;
+    padding: 20px 40px;
+    font-size: 1rem;
+    letter-spacing: 12px;
+    background: chartreuse;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+button:hover{
+    background: #000;
+    color: #fff;   
+}
